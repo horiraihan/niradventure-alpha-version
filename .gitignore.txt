@@ -1,0 +1,13 @@
+# Folder & file yang tidak perlu disimpan di Git
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# Metadata Unity yang bisa di-rebuild
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
